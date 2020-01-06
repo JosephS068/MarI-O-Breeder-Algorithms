@@ -2,7 +2,7 @@
 
 In the original [source](https://github.com/mam91/Neat-Genetic-Mario), the breeder genetic algorithm was implemented. For my project I implemented three additional genetic algorithms and compared results of all four types. The results can be found in project.pdf. 
 
-To get running download and follow the instructions [here](https://github.com/mam91/Neat-Genetic-Mario). At step 8 choose on the scripts from this repository.
+To get running download and follow the instructions [here](https://github.com/mam91/Neat-Genetic-Mario). At step 8, choose on the scripts from this repository.
 
 ### Tested Genetic Algorithms
 Original
