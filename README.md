@@ -12,3 +12,5 @@ Original
 [Eliteism](https://www.cse.unr.edu/~sushil/class/gas/papers/baluja95removing.pdf)
 
 [Adaptive](http://eprints.iisc.ernet.in/6971/2/adaptive.pdf)
+
+For the results of the different breeding algorithm's please view the project.pdf file.
